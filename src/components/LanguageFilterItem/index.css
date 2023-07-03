@@ -1,0 +1,20 @@
+.language_item {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.language {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+}
+
+.style {
+  border: 1px solid #0284c7;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
